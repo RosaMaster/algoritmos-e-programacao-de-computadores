@@ -9,9 +9,11 @@
   <img src="https://media0.giphy.com/media/crxNUSArkbdMwE7B4r/giphy.gif?cid=ecf05e47fs0o2g9jb9cjad9iogriaoh8r8n11wc43887475k&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="45" width="45" />
 </h1>
 
+
 <!-- DESCRIBLE -->
 >O objetivo desta disciplina é aprender sobre os conceitos básicos de programação e ser capaz de desenvolver algoritmos para resolver problemas usando uma das linguagens de programação mais populares atualmente: **Python**.<br><br>
 >**LifeLong Learning | Aprendizado ao longo da vida...**
+
 
 <!-- LINKS UTEIS -->
 > # Orientações
@@ -31,10 +33,10 @@
 >> Aula 01 - Noção de algoritmos<br>
 >> Aula 02 - Fluxogramas<br>
 >> Aula 03 - Sobre Python<br>
->>> Exercicío 1.01<br>
->>> Exercicío 1.02<br>
->>> Exercicío 1.03<br>
->>> Exercicío 1.04<br>
+>>> Exercicío 1.01: Conversor de Temperatura [C° para F°]<br>
+>>> Exercicío 1.02: Ordem Lista Alfabetica<br>
+>>> Exercicío 1.03: Média Aritmética Notas<br>
+>>> Exercicío 1.04: Soma Sequencial com Laço FOR<br>
 
 >&#128310; **Semana 02**: Tipos de dados (parte 1)
 >> Aula 04 - Expressões aritméticas e operadores<br>
@@ -97,6 +99,7 @@
 
 >&#128310; **Semana 08**: Depuração de programas
 
+
 ---
 <!-- TOOLS & SKILLS -->
 # **TOOLS & SKILLS**:
@@ -109,6 +112,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-0D1117.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+
 
 ---
 ### **RosaMaster**
