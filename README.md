@@ -16,7 +16,7 @@
 
 
 <!-- LINKS UTEIS -->
-> # Orientações
+> # OverView Tools
 > **INTERFACE ONLINE**
 > Jupyter Notebook: https://jupyter.org/ | https://jupyter.org/try-jupyter/lab/index.html<br>
 > **PYTHON**
@@ -29,7 +29,7 @@
 
 ---
 <!-- SEMANA 01 -->
->&#128311; **Semana 01**: Introdução a algoritmos e a Python
+>&#128311; **Semana 01**: Introdução a Algoritmos e a Python
 >> Aula 01 - Noção de algoritmos<br>
 >> Aula 02 - Fluxogramas<br>
 >> Aula 03 - Sobre Python<br>
@@ -38,41 +38,41 @@
 >>> Exercicío 1.03: Média Aritmética Notas<br>
 >>> Exercicío 1.04: Soma Sequencial com Laço FOR<br>
 
->&#128310; **Semana 02**: Tipos de dados (parte 1)
->> Aula 04 - Expressões aritméticas e operadores<br>
->> Aula 05 - Expressões lógicas e operadores<br>
+>&#128310; **Semana 02**: Tipos de Dados (parte 1)
+>> Aula 04 - Expressões Aritméticas e Operadores<br>
+>> Aula 05 - Expressões Lógicas e Operadores<br>
 >> Aula 06 - Variáveis<br>
 >> Aula 07 - Strings<br>
->>> Exercicío 2.01<br>
->>> Exercicío 2.02<br>
->>> Exercicío 2.03<br>
->>> Exercicío 2.04<br>
->>> Exercicío 2.05<br>
+>>> Exercicío 2.01: Expressões Algébricas<br>
+>>> Exercicío 2.02: Avaliando Expressões Booleanas<br>
+>>> Exercicío 2.03: Atribuir Valor a Variáveis<br>
+>>> Exercicío 2.04: Expressões & Strings<br>
+>>> Exercicío 2.05: Operador de Indexação<br>
 
->&#128311; **Semana 03**: Tipos de dados (parte 2)
->> Aula 08 - Listas, tuplas e operadores<br>
->> Aula 09 - Tipos de dados<br>
->> Aula 10 - Biblioteca padrão Python<br>
+>&#128311; **Semana 03**: Tipos de Dados (parte 2)
+>> Aula 08 - Listas, Ruplas e Operadores<br>
+>> Aula 09 - Tipos de Dados<br>
+>> Aula 10 - Biblioteca Padrão Python<br>
 >>> Exercicío 3.01<br>
 >>> Exercicío 3.02<br>
 >>> Exercicío 3.03<br>
 >>> Exercicío 3.04<br>
 >>> Exercicío 3.05<br>
 
->&#128310; **Semana 04**: Criação de programas
+>&#128310; **Semana 04**: Criação de Programas
 >> Aula 11 - Programas em Python<br>
 >> Aula 12 - print(), input() e eval()<br>
->> Aula 13 - Definição de funções<br>
->> Aula 14 - Documentação de programas<br>
+>> Aula 13 - Definição de Funções<br>
+>> Aula 14 - Documentação de Programas<br>
 >>> Exercicío 4.01<br>
 >>> Exercicío 4.02<br>
 >>> Exercicío 4.03<br>
 >>> Exercicío 4.04<br>
 >>> Exercicío 4.05<br>
 
->&#128311; **Semana 05**: Estruturas de condição
->> Aula 15 - Estruturas de condição de uma ou duas vias<br>
->> Aula 16 - Estruturas de condição de três ou mais vias<br>
+>&#128311; **Semana 05**: Estruturas de Condição
+>> Aula 15 - Estruturas de Condição de Uma ou Duas Vias<br>
+>> Aula 16 - Estruturas de Condição de Três ou Mais Vias<br>
 >>> Exercicío 5.01<br>
 >>> Exercicío 5.02<br>
 >>> Exercicío 5.03<br>
