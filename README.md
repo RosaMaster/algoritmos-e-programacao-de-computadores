@@ -64,11 +64,14 @@
 >> Aula 12 - print(), input() e eval()<br>
 >> Aula 13 - Definição de Funções<br>
 >> Aula 14 - Documentação de Programas<br>
->>> Exercicío 4.01<br>
->>> Exercicío 4.02<br>
->>> Exercicío 4.03<br>
->>> Exercicío 4.04<br>
+>>> Exercicío 4.01: Conversor de Temperatura [F° para C°]<br>
+>>> Exercicío 4.02: Função Média<br>
+>>> Exercicío 4.03: Função e Importação de Módulo<br>
+>>> Exercicío 4.04: Função e Laço de Repetição FOR<br>
 >>> Exercicío 4.05<br>
+>>> Exercicío 4.06<br>
+>>> Exercicío 4.07<br>
+>>> Exercicío 4.08<br>
 
 >&#128311; **Semana 05**: Estruturas de Condição
 >> Aula 15 - Estruturas de Condição de Uma ou Duas Vias<br>
@@ -111,7 +114,6 @@
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=red)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/sqlite-0D1117.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
 
 ---
@@ -136,3 +138,4 @@
     </tr>
   </table>
 </div>
+
