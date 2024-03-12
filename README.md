@@ -5,7 +5,7 @@
 <!-- TITLE -->
 <h1 align="center" alt="title">
   <img src="https://media0.giphy.com/media/crxNUSArkbdMwE7B4r/giphy.gif?cid=ecf05e47fs0o2g9jb9cjad9iogriaoh8r8n11wc43887475k&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="45" width="45" />
-    <b> algoritmos-e-programacao-de-computadores </b>
+    <b> algoritmos-e-programacao-de-computadores I </b>
   <img src="https://media0.giphy.com/media/crxNUSArkbdMwE7B4r/giphy.gif?cid=ecf05e47fs0o2g9jb9cjad9iogriaoh8r8n11wc43887475k&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="45" width="45" />
 </h1>
 
@@ -50,14 +50,14 @@
 >>> Exercicío 2.05: Operador de Indexação<br>
 
 >&#128311; **Semana 03**: Tipos de Dados (parte 2)
->> Aula 08 - Listas, Ruplas e Operadores<br>
+>> Aula 08 - Listas, Tuplas e Operadores<br>
 >> Aula 09 - Tipos de Dados<br>
 >> Aula 10 - Biblioteca Padrão Python<br>
->>> Exercicío 3.01<br>
->>> Exercicío 3.02<br>
->>> Exercicío 3.03<br>
->>> Exercicío 3.04<br>
->>> Exercicío 3.05<br>
+>>> Exercicío 3.01: Ordenar Lista de Palavras<br>
+>>> Exercicío 3.02: Operações com Lista de Notas<br>
+>>> Exercicío 3.03: Ordem os Operadores nas Expressões<br>
+>>> Exercicío 3.04: Tipo de Objeto<br>
+>>> Exercicío 3.05: Escrevendo Expressões<br>
 
 >&#128310; **Semana 04**: Criação de Programas
 >> Aula 11 - Programas em Python<br>
@@ -79,9 +79,9 @@
 >>> Exercicío 5.04<br>
 >>> Exercicío 5.05<br>
 
->&#128310; **Semana 06**: Estruturas de repetição
->> Aula 17 - Expressões aritméticas e operadores<br>
->> Aula 18 - Expressões lógicas e operadores<br>
+>&#128310; **Semana 06**: Estruturas de Repetição
+>> Aula 17 - Expressões Aritméticas e Operadores<br>
+>> Aula 18 - Expressões Lógicas e Operadores<br>
 >> Aula 19 - Variáveis<br>
 >>> Exercicío 6.01<br>
 >>> Exercicío 6.02<br>
@@ -90,7 +90,7 @@
 >>> Exercicío 6.05<br>
 
 >&#128311; **Semana 07**: Vetores e matrizes
->> Aula 20 - Listas multidimensionais<br>
+>> Aula 20 - Listas Multidimensionais<br>
 >>> Exercicío 7.01<br>
 >>> Exercicío 7.02<br>
 >>> Exercicío 7.03<br>
