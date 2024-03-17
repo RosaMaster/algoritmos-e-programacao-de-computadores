@@ -91,11 +91,9 @@
 
 >&#128311; **Semana 07**: Vetores e matrizes
 >> Aula 20 - Listas Multidimensionais<br>
->>> Exercicío 7.01<br>
->>> Exercicío 7.02<br>
->>> Exercicío 7.03<br>
->>> Exercicío 7.04<br>
->>> Exercicío 7.05<br>
+>>> Exercicío 7.01: Escreva Expressões<br>
+>>> Exercicío 7.02: Manipulando Strings<br>
+>>> Exercicío 7.03: Matrizes<br>
 
 >&#128310; **Semana 08**: Depuração de programas
 
