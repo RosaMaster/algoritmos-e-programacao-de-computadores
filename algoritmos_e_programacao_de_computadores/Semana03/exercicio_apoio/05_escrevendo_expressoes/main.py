@@ -1,4 +1,4 @@
-# Exercício 03: Escrevendo Expressões
+# Exercício 05: Escrevendo Expressões
 # Dev: RosaMaster
 # Título: Escrevendo Expressões
 # Descrição: Escreva expressões Python correspondentes ao seguinte:
