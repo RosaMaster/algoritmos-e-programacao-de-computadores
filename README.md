@@ -69,28 +69,25 @@
 >>> Exercicío 4.03: Função e Importação de Módulo<br>
 >>> Exercicío 4.04: Função e Laço de Repetição FOR<br>
 >>> Exercicío 4.05: Docstring<br>
->>> Exercicío 4.06<br>
->>> Exercicío 4.07<br>
->>> Exercicío 4.08<br>
+>>> Exercicío 4.06: Diagrama<br>
+>>> Exercicío 4.07: Mapping<br>
+>>> Exercicío 4.08: Troca valor lista com função<br>
 
 >&#128311; **Semana 05**: Estruturas de Condição
 >> Aula 15 - Estruturas de Condição de Uma ou Duas Vias<br>
 >> Aula 16 - Estruturas de Condição de Três ou Mais Vias<br>
->>> Exercicío 5.01<br>
->>> Exercicío 5.02<br>
->>> Exercicío 5.03<br>
->>> Exercicío 5.04<br>
->>> Exercicío 5.05<br>
+>>> Exercicío 5.01: Traduza as Instruções Condicionais em Instruções if do Python<br>
+>>> Exercicío 5.02: Traduza estas Declarações em Instruções if/else do Python<br>
+>>> Exercicío 5.03: Verificação de Login<br>
+>>> Exercicío 5.04: Calule o IMC<br>
 
 >&#128310; **Semana 06**: Estruturas de Repetição
 >> Aula 17 - Expressões Aritméticas e Operadores<br>
 >> Aula 18 - Expressões Lógicas e Operadores<br>
 >> Aula 19 - Variáveis<br>
->>> Exercicío 6.01<br>
->>> Exercicío 6.02<br>
->>> Exercicío 6.03<br>
->>> Exercicío 6.04<br>
->>> Exercicío 6.05<br>
+>>> Exercicío 6.01: Lista de Palavras com 4 Letras<br>
+>>> Exercicío 6.02: Lista de Palavras com 4 Letras<br>
+>>> Exercicío 6.03: Sequencia Laço for com Condições<br>
 
 >&#128311; **Semana 07**: Vetores e matrizes
 >> Aula 20 - Listas Multidimensionais<br>
@@ -109,11 +106,8 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=green&color=0D1117&labelColor=0D1117)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-0D1117.svg?style=for-the-badge&logo=jupyter&logoColor=23FA0F00)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-0D1117.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-0D1117.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp; 
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=red)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
 ---
