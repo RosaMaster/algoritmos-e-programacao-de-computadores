@@ -17,3 +17,7 @@ def negatives(lista):
 
 negatives([4, 0, -1, -3, 6, -9])
 
+# output:
+# -1
+# -3
+# -9

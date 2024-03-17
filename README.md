@@ -68,7 +68,7 @@
 >>> Exercicío 4.02: Função Média<br>
 >>> Exercicío 4.03: Função e Importação de Módulo<br>
 >>> Exercicío 4.04: Função e Laço de Repetição FOR<br>
->>> Exercicío 4.05<br>
+>>> Exercicío 4.05: Docstring<br>
 >>> Exercicío 4.06<br>
 >>> Exercicío 4.07<br>
 >>> Exercicío 4.08<br>
