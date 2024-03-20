@@ -28,6 +28,10 @@
 
 
 ---
+<!-- BÔNUS -->
+>&#128310; **Bônus**: Dados Faker
+>> Bônus - Utilizando Biblioteca FAKER para testes<br>
+
 <!-- SEMANA 01 -->
 >&#128311; **Semana 01**: Introdução a Algoritmos e a Python
 >> Aula 01 - Noção de algoritmos<br>
@@ -38,6 +42,7 @@
 >>> Exercicío 1.03: Média Aritmética Notas<br>
 >>> Exercicío 1.04: Soma Sequencial com Laço FOR<br>
 
+<!-- SEMANA 02 -->
 >&#128310; **Semana 02**: Tipos de Dados (parte 1)
 >> Aula 04 - Expressões Aritméticas e Operadores<br>
 >> Aula 05 - Expressões Lógicas e Operadores<br>
@@ -49,6 +54,7 @@
 >>> Exercicío 2.04: Expressões & Strings<br>
 >>> Exercicío 2.05: Operador de Indexação<br>
 
+<!-- SEMANA 03 -->
 >&#128311; **Semana 03**: Tipos de Dados (parte 2)
 >> Aula 08 - Listas, Tuplas e Operadores<br>
 >> Aula 09 - Tipos de Dados<br>
@@ -59,6 +65,7 @@
 >>> Exercicío 3.04: Tipo de Objeto<br>
 >>> Exercicío 3.05: Escrevendo Expressões<br>
 
+<!-- SEMANA 04 -->
 >&#128310; **Semana 04**: Criação de Programas
 >> Aula 11 - Programas em Python<br>
 >> Aula 12 - print(), input() e eval()<br>
@@ -73,6 +80,7 @@
 >>> Exercicío 4.07: Mapping<br>
 >>> Exercicío 4.08: Troca valor lista com função<br>
 
+<!-- SEMANA 05 -->
 >&#128311; **Semana 05**: Estruturas de Condição
 >> Aula 15 - Estruturas de Condição de Uma ou Duas Vias<br>
 >> Aula 16 - Estruturas de Condição de Três ou Mais Vias<br>
@@ -81,6 +89,7 @@
 >>> Exercicío 5.03: Verificação de Login<br>
 >>> Exercicío 5.04: Calule o IMC<br>
 
+<!-- SEMANA 06 -->
 >&#128310; **Semana 06**: Estruturas de Repetição
 >> Aula 17 - Expressões Aritméticas e Operadores<br>
 >> Aula 18 - Expressões Lógicas e Operadores<br>
@@ -89,13 +98,16 @@
 >>> Exercicío 6.02: Lista de Palavras com 4 Letras<br>
 >>> Exercicío 6.03: Sequencia Laço for com Condições<br>
 
+<!-- SEMANA 07 -->
 >&#128311; **Semana 07**: Vetores e matrizes
 >> Aula 20 - Listas Multidimensionais<br>
 >>> Exercicío 7.01: Escreva Expressões<br>
 >>> Exercicío 7.02: Manipulando Strings<br>
 >>> Exercicío 7.03: Matrizes<br>
 
+<!-- SEMANA 08 -->
 >&#128310; **Semana 08**: Depuração de programas
+>> Aula 21 - Depuração de Programas<br>
 
 
 ---
